@@ -1,0 +1,21 @@
+
+{
+
+"mydata": [
+    
+        {"name": "Darshit",
+        "img": "./images/card_img.jpg", 
+        "view":"https://www.strategyr.com/", 
+        "download":"./downloads/download.zip"
+        },
+
+        {"name": "srinivas",
+        "img": "./images/card_img.jpg", 
+        "view":"https://www.strategyr.com/", 
+        "download":"./downloads/download.zip"
+        }
+
+    ]
+
+}
+
