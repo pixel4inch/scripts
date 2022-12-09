@@ -2,8 +2,7 @@
 {
 
 "mydata": [
-    
-        {"name": "Darshit",
+        {"name": "Darshit   ",
         "img": "./images/card_img.jpg", 
         "view":"https://www.strategyr.com/", 
         "download":"./downloads/download.zip"
@@ -13,8 +12,13 @@
         "img": "./images/card_img.jpg", 
         "view":"https://www.strategyr.com/", 
         "download":"./downloads/download.zip"
-        }
+        },
 
+        {"name": "chv",
+        "img": "./images/card_img.jpg", 
+        "view":"https://www.strategyr.com/", 
+        "download":"./downloads/download.zip"
+        }
     ]
 
 }
