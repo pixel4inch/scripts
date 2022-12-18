@@ -1,0 +1,44 @@
+{
+    "menu": [
+        {
+            "main": "CSS",
+            "mainsub": [
+                {
+                    "sub1": "Hover",
+                    "sub2": "Animation",
+                    "sub3": "Card"
+                }
+            ]
+        },
+        {
+            "main": "Svg",
+            "mainsub": [
+                {
+                    "sub1": "Svg Shapes",
+                    "sub2": "Svg Color",
+                    "sub3": "SVG Text"
+                }
+            ]
+        },
+        {
+            "main": "Icon",
+            "menusub": [
+                {
+                    "sub1": "FontAwsome",
+                    "sub2": "IconLIne",
+                    "sub3": "LineIcon"
+                }
+            ]
+        },
+        {
+            "main": "java",
+            "menusub": [
+                {
+                    "sub1": "FontAwsome",
+                    "sub2": "IconLIne",
+                    "sub3": "LineIcon"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+//alert(value.main);
+
+
+                                        // alert((value.mainsub != "undefined"));
+                                        // if (value.mainsub != "undefined") {
+                                        //     //  alert(data.mainsub);
+                                        //     if (value.mainsub[0].length > 0) {
+                                        //         $.each(value.mainsub[0], function (key, value1) {
+                                        //             output += '<ul class="dropdown-menu dropdown-menu-dark">'
+                                        //             output += ' <li><a class="dropdown-item" href="#">' + value1.sub1 + '</li>';
+                                        //             output += ' <li><a class="dropdown-item" href="#">' + value1.sub2 + '</li>';
+                                        //             output += ' <li><a class="dropdown-item" href="#">' + value1.sub3 + '</li>';
+                                        //             output += '</ul>'
+                                        //         });
+                                        //     }
+
+                                        // }
