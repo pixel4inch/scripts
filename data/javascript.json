@@ -1,48 +1,56 @@
 {
     "javascriptdata": [
         {
+            "catogry": "js & Jquery",
             "name": "Page Loader   ",
             "img": "./images/PageLoading.jpg",
             "view": "./view/loading/loading.html",
             "download": "./downloads/loading.zip"
         },
         {
+            "catogry": "js & Jquery",
             "name": "Animated Counter",
             "img": "./images/Multi Animated Counter.jpg",
             "view": "./view/animated_counter/index.html",
             "download": "./downloads/animated_counter.zip"
         },
         {
+            "catogry": "js & Jquery",
             "name": "Crud Table",
             "img": "./images/CrudTable.jpg",
             "view": "./view/CrudTable/index.html",
             "download": "./downloads/CrudTable.zip"
         },
         {
+            "catogry": "js & Jquery",
             "name": "Login Page Validation",
             "img": "./images/LoginPageValidation.jpg",
             "view": "./view/LoginPageValidation/index.html",
             "download": "./downloads/LoginPageValidation.zip"
         },
         {
+            "catogry": "js & Jquery",
             "name": "Hiding Table Column On CheckBox",
             "img": "./images/HidingTableOnCheckBox.jpg",
             "view": "./view/HidingTableOnCheckBox/HideShowColumns.html",
             "download": "./downloads/HidingTableOnCheckBox.zip"
         },
         {
+            "catogry": "js & Jquery",
             "name": "Image Magnifing",
             "img": "./images/IMAGEMAGNIFING.jpg",
             "view": "./view/IMAGEMAGNIFING/index.html",
             "download": "./downloads/IMAGEMAGNIFING.zip"
         },
         {
+            "catogry": "js & Jquery",
             "name": "Range Slider Value in Other Input",
             "img": "./images/rangeslider.jpg",
             "view": "./view/rangeslider/index.html",
             "download": "./downloads/rangeslider.zip"
         },
         {
+            "catogry": "js & Jquery",
             "name": " Radio Button Check Display div",
             "img": "./images/RadioButtonCheckDisplaydiv.jpg",
             "view": "./view/ RadioButtonCheckDisplaydiv/index.html",

@@ -1,65 +1,41 @@
 {
     "menu": [
         {
-            "main": "HOME",
-            "mainsub": [
-                {
-                    "sub1": "Hover",
-                    "sub2": "Animation",
-                    "sub3": "Card"
-                }
-            ]
+            "Tab": "HOME",
+            "link": "index.html"
         },
         {
-            "main": "HTML",
-            "mainsub": [
-                {
-                    "sub1": "Svg Shapes",
-                    "sub2": "Svg Color",
-                    "sub3": "SVG Text"
-                }
-            ]
+            "Tab": "HTML",
+            "link": "html.html"
         },
         {
-            "main": "CSS",
-            "menusub": [
-                {
-                    "sub1": "FontAwsome",
-                    "sub2": "IconLIne",
-                    "sub3": "LineIcon"
-                }
-            ]
+            "Tab": "CSS",
+            "link": "css.html"
         },
         {
-            "main": "SASS",
-            "menusub": [
-                {
-                    "sub1": "FontAwsome",
-                    "sub2": "IconLIne",
-                    "sub3": "LineIcon"
-                }
-            ]
+            "Tab": "SASS",
+            "link": "sass.html"
         },
         {
-            "main": "JAVASCRIPT & JQUERY",
-            "menusub": [
-                {
-                    "sub1": "FontAwsome",
-                    "sub2": "IconLIne",
-                    "sub3": "LineIcon"
-                }
-            ]
+            "Tab": "JAVASCRIPT & JQUERY",
+            "link": "js.html"
         },
         
         {
-            "main": "ICONS",
-            "menusub": [
-                {
-                    "sub1": "FontAwsome",
-                    "sub2": "IconLIne",
-                    "sub3": "LineIcon"
-                }
-            ]
+            "Tab": "ICONS",
+            "link": "icons.html"
+        },
+        {
+            "Tab": "Fonts",
+            "link": "fonts.html"
+        },
+
+        {
+            "Tab": "AI",
+            "link": "ai.html"
         }
+
+
+
     ]
 }
