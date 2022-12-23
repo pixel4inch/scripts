@@ -1,7 +1,7 @@
 {
     "menu": [
         {
-            "main": "CSS",
+            "main": "HOME",
             "mainsub": [
                 {
                     "sub1": "Hover",
@@ -11,7 +11,7 @@
             ]
         },
         {
-            "main": "Svg",
+            "main": "HTML",
             "mainsub": [
                 {
                     "sub1": "Svg Shapes",
@@ -21,7 +21,7 @@
             ]
         },
         {
-            "main": "Icon",
+            "main": "CSS",
             "menusub": [
                 {
                     "sub1": "FontAwsome",
@@ -31,7 +31,28 @@
             ]
         },
         {
-            "main": "java",
+            "main": "SASS",
+            "menusub": [
+                {
+                    "sub1": "FontAwsome",
+                    "sub2": "IconLIne",
+                    "sub3": "LineIcon"
+                }
+            ]
+        },
+        {
+            "main": "JAVASCRIPT & JQUERY",
+            "menusub": [
+                {
+                    "sub1": "FontAwsome",
+                    "sub2": "IconLIne",
+                    "sub3": "LineIcon"
+                }
+            ]
+        },
+        
+        {
+            "main": "ICONS",
             "menusub": [
                 {
                     "sub1": "FontAwsome",

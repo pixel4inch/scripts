@@ -33,7 +33,7 @@
                     <span>PIXEL<span>4</span>INCH</span>
                 </a>
 
-                <ul class="nav col-12 col-md-auto mb-2 justify-content-center mb-md-0 " id="topnav">
+                <ul class="nav col-12 col-md-auto mb-2 justify-content-center mb-md-0 custom_nav " id="topnav">
                     <script>
                         $(document).ready(function () {
                             $.getJSON("./data/menu.json", function (data) {
@@ -48,10 +48,7 @@
                         });
                     </script>
                 </ul>
-
             </header>
-
-
 
             <div class="border-bottom  bg-white shadowd-sm-grid p-0  ">
                 <h1 class="text-center text-danger border-bottom p-0 py-4 m-0"> JavaScript & Jquery Snipts </h1>
@@ -62,14 +59,11 @@
                 </div>
             </div>
 
-
-
-
             <main style="margin-top:50px">
                 <div class="container-fluid ">
                     <ul id="myUL"
                         class="row g-1  m-0 p-0 row-cols-1  row-cols-sm-2 row-cols-md-4 row-cols-lg-5 row-cols-xl-6">
-
+                  
 
                     </ul>
 
@@ -78,9 +72,9 @@
 
                 <script>
                     $(document).ready(function () {
-                        $.getJSON("./data/external.json", function (data) {
+                        $.getJSON("./data/javascript.json", function (data) {
                             var output = '';
-                            $.each(data.mydata, function (key, value) {
+                            $.each(data.javascriptdata, function (key, value) {
                                 output += '<li class="feature col">' + '<div class="card">' + '<img src=" ' + value.img + '" class="img-fluid card-img-top" alt="...">' + '<div class="card-body">' + '<a href="javascript:void(0)" class="card-title text-black font-weight-bold">' + value.name + '</a>' + '</div>  <hr /> <div class="d-flex justify-content-between"> <a href=" ' + value.view + '" target="_blank" class="btn float-start"><i class="fa-solid fa-eye"></i></a>' + '<a href="' + value.download + '" class="btn float-end"><i class="fa-solid fa-download"></i></a></div> </div>' + '</li>';
                             });
                             $('#myUL').html(output);

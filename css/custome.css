@@ -7,6 +7,7 @@
 :root {
     --maincolor: #1b1464;
     --secondcolor: #f7931e;
+    --black:#000
 
     --mainfont: 'Source Sans Pro', sans-serif;
     --headingfont: 'Quicksand', sans-serif;
@@ -34,4 +35,15 @@ body {
 
 .brandimg span span {
     color: var(--secondcolor);
+}
+
+.custom_nav .nav-link{
+
+    font-weight:500;
+    color:var(--black) !important;
+    font-size:14px;
+    margin-left: 5px;
+    margin-right:5px;
+
+
 }
