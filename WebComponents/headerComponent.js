@@ -20,17 +20,21 @@
         this.innerHTML = `
         
         
-        <header class="d-flex my-1 flex-wrap align-items-center justify-content-between  py-3 mb-0 border-bottom">
-        <a href="/"
-            class="d-flex align-items-center col-md-3 mb-2 mb-md-0 text-dark text-decoration-none d-flex justify-content-center align-items-center brandimg">
+        <nav class="navbar navbar-expand-lg bg-light">
+        <a class="navbar-brand text-dark text-decoration-none d-flex justify-content-center align-items-center brandimg" href="#">
             <img src="./images/pixel4inch.jpg" class=" mx-2" style="width: 45px; height: auto;" />
             <span>PIXEL<span>4</span>INCH</span>
         </a>
 
-        <ul class="nav col-12 col-md-auto mb-2 justify-content-center mb-md-0 custom_nav " id="topnav">
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="nav col-12 col-md-auto mb-2 justify-content-center mx-auto mb-md-0 custom_nav " id="topnav">
             
         </ul>
-    </header>
+        </div>
+    </nav>
         
         `;
 

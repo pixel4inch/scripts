@@ -12,15 +12,25 @@
             "Tab": "CSS",
             "link": "css.html"
         },
-        {
-            "Tab": "SASS",
-            "link": "sass.html"
-        },
+       
         {
             "Tab": "JAVASCRIPT & JQUERY",
             "link": "js.html"
         },
+
+        {
+            "Tab": "React",
+            "link": "fonts.html"
+        },
+        {
+            "Tab": "SASS",
+            "link": "sass.html"
+        },
         
+        {
+            "Tab": "MUI",
+            "link": "sass.html"
+        },
         {
             "Tab": "ICONS",
             "link": "icons.html"
@@ -29,6 +39,13 @@
             "Tab": "Fonts",
             "link": "fonts.html"
         },
+       
+
+        {
+            "Tab": "Images",
+            "link": "fonts.html"
+        },
+
 
         {
             "Tab": "AI",
