@@ -3,53 +3,51 @@
         {
             "catogry": "AI Image",
             "Title": "Dall-e   ",
-            "Description":"Generate images from text input",
+            "Description": "Generate images from text input",
             "img": "./images/ai/ai.jpg",
             "Website": "https://openai.com/blog/dall-e/"
-          
         },
         {
             "catogry": "AI Image",
             "Title": "Lexica   ",
-            "Description":"Search for images and learn text prompt that describes the photo for AI",
+            "Description": "Search for images and learn text prompt that describes the photo for AI",
             "img": "./images/ai/ai.jpg",
             "Website": "https://lexica.art/"
         },
         {
             "catogry": "AI Image ",
             "Title": "Astria   ",
-            "Description":"Generate images from other images ",
+            "Description": "Generate images from other images ",
             "img": "./images/ai/ai.jpg",
             "Website": "https://www.strmr.com/"
         },
         {
             "catogry": "Content ",
             "Title": "jasper  ",
-            "Description":"Create copies",
+            "Description": "Create copies",
             "img": "./images/ai/ai.jpg",
             "Website": "https://www.jasper.ai"
         },
         {
             "catogry": "3d Model & Images ",
             "Title": "Luma AI   ",
-            "Description":"Generate 3D models from photo",
+            "Description": "Generate 3D models from photo",
             "img": "./images/ai/ai.jpg",
             "Website": "https://lumalabs.ai/"
         },
         {
             "catogry": "Web Browser Videos ",
             "Title": "Runway ML   ",
-            "Description":"Web browser video editor with AI functionalities ",
+            "Description": "Web browser video editor with AI functionalities ",
             "img": "./images/ai/ai.jpg",
             "Website": "https://runwayml.com/"
         },
         {
             "catogry": "Website With AI  ",
             "Title": "Durable  ",
-            "Description":"Create full websites with AI",
+            "Description": "Create full websites with AI",
             "img": "./images/ai/ai.jpg",
             "Website": "https://durable.co/"
         }
-        
     ]
 }

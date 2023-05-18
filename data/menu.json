@@ -1,58 +1,188 @@
 {
     "menu": [
         {
-            "Tab": "HOME",
-            "link": "index.html"
+            "id": "ADOBE_XD",
+            "Tab": "ADOBE XD",
+            "IMP": "IMPORTANT",
+            "ICONLINK": "fa fa-certificate",
+            "DISPLAY": "DISPLAY-BLOCK",
+            "COMPONENT": "xd-component"
         },
         {
-            "Tab": "HTML",
-            "link": "html.html"
+            "id": "3D_TOOLS",
+            "Tab": "3d|AR|VR TOOLS",
+            "IMP": "IMPORTANT",
+            "ICONLINK": "fa fa-cube",
+            "DISPLAY": "DISPLAY-BLOCK",
+            "COMPONENT": "ar-component"
         },
         {
-            "Tab": "CSS",
-            "link": "css.html"
-        },
-       
-        {
-            "Tab": "JAVASCRIPT & JQUERY",
-            "link": "js.html"
-        },
-
-        {
-            "Tab": "React",
-            "link": "fonts.html"
+            "id": "AI_TOOLS",
+            "Tab": "AI TOOLS",
+            "IMP": "IMPORTANT",
+            "ICONLINK": "fa fa-braille",
+            "DISPLAY": "DISPLAY-NONE",
+            "COMPONENT": ""
         },
         {
-            "Tab": "SASS",
-            "link": "sass.html"
+            "id": "ACCESSIBILITY",
+            "Tab": "ACCESSIBILITY",
+            "IMP": "IMPORTANT",
+            "ICONLINK": "fa fa-universal-access",
+            "DISPLAY": "DISPLAY-NONE",
+            "COMPONENT": ""
         },
-        
         {
-            "Tab": "MUI",
-            "link": "sass.html"
+            "id": "ANIMATION_TOOLS",
+            "Tab": "ANIMATION TOOLS",
+            "IMP": "IMPORTANT",
+            "ICONLINK": "fa fa-magic",
+            "DISPLAY": "DISPLAY-NONE",
+            "COMPONENT": ""
         },
         {
+            "id": "BOOKS",
+            "Tab": "BOOKS",
+            "IMP": "IMPORTANT",
+            "ICONLINK": "fa fa-book",
+            "DISPLAY": "DISPLAY-NONE",
+            "COMPONENT": ""
+        },
+        {
+            "id": "COLLABORATION_TOOLS",
+            "Tab": "COLLABORATIONS TOOLS",
+            "IMP": "IMPORTANT",
+            "ICONLINK": "fa fa-users",
+            "DISPLAY": "DISPLAY-NONE",
+            "COMPONENT": ""
+        },
+        {
+            "id": "FRAME_WORKS",
+            "Tab": "FRAME WORKS",
+            "IMP": "IMPORTANT",
+            "ICONLINK": "fa fa-th-large",
+            "DISPLAY": "DISPLAY-NONE",
+            "COMPONENT": ""
+        },
+        {
+            "id": "COLOR_GRADIENTS",
+            "Tab": "COLORS & GRADIENTS",
+            "IMP": "IMPORTANT",
+            "ICONLINK": "fa fa-eyedropper",
+            "DISPLAY": "DISPLAY-NONE",
+            "COMPONENT": ""
+        },
+        {
+            "id": "DESIGN_GAMES",
+            "Tab": "DESING GAMES",
+            "IMP": "IMPORTANT",
+            "ICONLINK": "fa fa-gamepad",
+            "DISPLAY": "DISPLAY-NONE",
+            "COMPONENT": ""
+        },
+        {
+            "id": "DESING_INSPIRATIONS",
+            "Tab": "DESING INSPIRATIONS",
+            "IMP": "IMPORTANT",
+            "ICONLINK": "fa fa-eye",
+            "DISPLAY": "DISPLAY-NONE",
+            "COMPONENT": ""
+        },
+        {
+            "id": "DESING_SYSTEMS",
+            "Tab": "DESING SYSTEMS",
+            "IMP": "IMPORTANT",
+            "ICONLINK": "fa fa-gears",
+            "DISPLAY": "DISPLAY-NONE",
+            "COMPONENT": ""
+        },
+        {
+            "id": "DEVICE_MOCKUPS",
+            "Tab": "DEVICE MOCKUPS",
+            "IMP": "IMPORTANT",
+            "ICONLINK": "fa fa-mobile",
+            "DISPLAY": "DISPLAY-NONE",
+            "COMPONENT": ""
+        },
+        {
+            "id": "FONTS_TYPOGRAPHY",
+            "Tab": "FONTS & TYPOGRAPHY",
+            "IMP": "IMPORTANT",
+            "ICONLINK": "fa fa-font",
+            "DISPLAY": "DISPLAY-BLOCK",
+            "COMPONENT": "fonts-component"
+        },
+        {
+            "id": "FREE_STOCK_PHOTS",
+            "Tab": "FREE STOCK PHOTOS",
+            "IMP": "IMPORTANT",
+            "ICONLINK": "fa-solid fa-image",
+            "DISPLAY": "DISPLAY-NONE",
+            "COMPONENT": ""
+        },
+        {
+            "id": "FREE STOCK VIDEOS",
+            "Tab": "FREE STOCK VIDEOS",
+            "IMP": "IMPORTANT",
+            "ICONLINK": "fa fa-video-camera",
+            "DISPLAY": "DISPLAY-NONE",
+            "COMPONENT": ""
+        },
+        {
+            "id": "ICONS",
             "Tab": "ICONS",
-            "link": "icons.html"
+            "IMP": "IMPORTANT",
+            "ICONLINK": "fa-brands fa-gg",
+            "DISPLAY": "DISPLAY-BLOCK",
+            "COMPONENT": "icon-component"
         },
         {
-            "Tab": "Fonts",
-            "link": "fonts.html"
+            "id": "ILLUSTRATIONS",
+            "Tab": "ILLUSTRATIONS",
+            "IMP": "IMPORTANT",
+            "ICONLINK": "fa fa-ils",
+            "DISPLAY": "DISPLAY-NONE",
+            "COMPONENT": ""
         },
-       
-
         {
-            "Tab": "Images",
-            "link": "fonts.html"
+            "id": "PLUGINS",
+            "Tab": "PLUGINS",
+            "IMP": "IMPORTANT",
+            "ICONLINK": "fa fa-gear",
+            "DISPLAY": "DISPLAY-NONE",
+            "COMPONENT": ""
         },
-
-
         {
-            "Tab": "AI",
-            "link": "ai.html"
+            "id": "PROTOTYPING TOOLS",
+            "Tab": "PROTOTYPING TOOLS",
+            "IMP": "IMPORTANT",
+            "ICONLINK": "fa fa-gavel",
+            "DISPLAY": "DISPLAY-NONE",
+            "COMPONENT": ""
+        },
+        {
+            "id": "UI MARKETPLACES",
+            "Tab": "UI MARKET PLACES",
+            "IMP": "IMPORTANT",
+            "ICONLINK": "fa fa-shopping-bag",
+            "DISPLAY": "DISPLAY-NONE",
+            "COMPONENT": ""
+        },
+        {
+            "id": "USEFUL UTILITIES",
+            "Tab": "USEFUL UTILITIES",
+            "IMP": "IMPORTANT",
+            "ICONLINK": "fa fa-cubes",
+            "DISPLAY": "DISPLAY-NONE",
+            "COMPONENT": ""
+        },
+        {
+            "id": "YOUTUBE_VIDEOS",
+            "Tab": "YOUTUBE VIDEOS",
+            "IMP": "IMPORTANT",
+            "ICONLINK": "fa-brands fa-youtube",
+            "DISPLAY": "DISPLAY-NONE",
+            "COMPONENT": ""
         }
-
-
-
     ]
 }

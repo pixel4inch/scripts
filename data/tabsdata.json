@@ -1,0 +1,84 @@
+{
+    "tabinfo": [
+        {
+            "catogry": "Icons",
+            "name": "Icomoon",
+            "img": "./images/icons/icomoon.jpg",
+            "link": "https://icomoon.io/?ref=designxstream.com",
+            "type": " FREEMIUM",
+            "Description": "Best icon collection set designed on a precise pixel grid available in various formats."
+        },
+        {
+            "catogry": "Icons",
+            "name": "Flaticon",
+            "img": "./images/icons/flaticon.jpg",
+            "link": "https://www.flaticon.com/?ref=designxstream.com",
+            "type": "FREEMIUM",
+            "Description": "The largest database of free icons available in PNG, SVG, EPS, PSD and BASE 64 formats."
+        },
+        {
+            "catogry": "Icons",
+            "name": "LineIcons",
+            "img": "./images/icons/line-icons.jpg",
+            "link": "https://lineicons.com/?ref=designxstream.com",
+            "type": "FREEMIUM",
+            "Description": "Handcrafted line icons for modern user interfaces of web, android, iOS, and desktop app projects."
+        },
+        {
+            "catogry": "Icons",
+            "name": "Icons8",
+            "img": "./images/icons/icons8.jpg",
+            "link": "https://icons8.com/icons/?ref=designxstream.com",
+            "type": "FREEMIUM",
+            "Description": "An amazing collection of icons in 36 styles to keep your project clean and consistent."
+        },
+        {
+            "catogry": "Icons",
+            "name": "Feather Icons",
+            "img": "./images/icons/feather-icons.jpg",
+            "link": "https://feathericons.com/?ref=designxstream.com",
+            "type": "FREE",
+            "Description": "Amazing collection of simply beautiful open source icons."
+        },
+        {
+            "catogry": "Icons",
+            "name": "Remix Icons",
+            "img": "./images/icons/remix-icons.jpg",
+            "link": "https://remixicon.com/?ref=designxstream.com",
+            "type": "FREE",
+            "Description": "A set of open-source neutral-style system symbols elaborately crafted for designers."
+        },
+        {
+            "catogry": "Icons",
+            "name": "Eva Icons",
+            "img": "./images/icons/eva-icons.jpg",
+            "link": "https://akveo.github.io/eva-icons/#/",
+            "type": " FREE",
+            "Description": "A pack of more than 480 beautifully crafted Open Source icons for common actions."
+        },
+        {
+            "catogry": "Icons",
+            "name": "Iconscout",
+            "img": "./images/icons/iconscout.jpg",
+            "link": "https://iconscout.com/icons?ref=designxstream.com",
+            "type": "FREEMIUM",
+            "Description": "Handpicked unique collection of icon packs that fit all your design needs."
+        },
+        {
+            "catogry": "Icons",
+            "name": "Icon Finder",
+            "img": "./images/icons/icon-finder.jpg",
+            "link": "https://www.iconfinder.com/?ref=designxstream.com",
+            "type": "FREEMIUM",
+            "Description": "A huge collection of high-quality icons to millions of creative professionals."
+        },
+        {
+            "catogry": "Icons",
+            "name": "Noun Project",
+            "img": "./images/icons/noun-project.jpg",
+            "link": "https://thenounproject.com/?ref=designxstream.com",
+            "type": "FREEMIUM",
+            "Description": "An amazing list of handpicked icons that unites it as a global visual language."
+        }
+    ]
+}
