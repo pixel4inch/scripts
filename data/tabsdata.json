@@ -79,6 +79,78 @@
             "link": "https://thenounproject.com/?ref=designxstream.com",
             "type": "FREEMIUM",
             "Description": "An amazing list of handpicked icons that unites it as a global visual language."
+        },
+        {
+            "catogry": "Fonts",
+            "name": "Font Pairings",
+            "img": "./images/fonts/font-pairings.jpg",
+            "link": "https://fontpairings.bypeople.com/?ref=designxstream.com",
+            "type": "MAC, PAID, WINDOWS",
+            "Description": "Interactive tool to check typefaces and font pairings with real world design examples."
+        },
+        {
+            "catogry": "Fonts",
+            "name": "Font Arena",
+            "img": "./images/fonts/fonts-arena.jpg",
+            "link": "https://fontsarena.com/?ref=designxstream.com",
+            "type": "FREEMIUM, WEB",
+            "Description": "A great place to find free fonts, free alternatives to premium fonts, done-for-you-research articles."
+        },
+        {
+            "catogry": "Fonts",
+            "name": "Font In Use",
+            "img": "./images/fonts/fonts-in-use.jpg",
+            "link": "https://fontsinuse.com/?ref=designxstream.com",
+            "type": "FREEMIUM, WEB",
+            "Description": "A searchable archive of typographic design, indexed by typeface, format, and topic."
+        },
+        {
+            "catogry": "Fonts",
+            "name": "Fonts LoL",
+            "img": "./images/fonts/fonts-lol.jpg",
+            "link": "http://www.fonts.lol/?ref=designxstream.com",
+            "type": "FREEMIUM",
+            "Description": "The first type foundry dedicated to creating high-quality color fonts. Typing with full-color illustrated"
+        },
+        {
+            "catogry": "Fonts",
+            "name": "Font Squirrel",
+            "img": "./images/fonts/font-squirrel.jpg",
+            "link": "https://www.fontsquirrel.com/?ref=designxstream.com",
+            "type": "FREEMIUM, WEB",
+            "Description": "Hand-picked high quality, legitimately free fonts . Download thousands of completely legal,"
+        },
+        {
+            "catogry": "Fonts",
+            "name": "Google Fonts",
+            "img": "./images/fonts/google-fonts.jpg",
+            "link": "https://fonts.google.com/?ref=designxstream.com",
+            "type": "FREEMIUM, WEB",
+            "Description": "An amazing collection of beautiful, fast, and open web fonts."
+        },
+        {
+            "catogry": "Fonts",
+            "name": "Typewolf",
+            "img": "./images/fonts/typewolf.jpg",
+            "link": "https://www.typewolf.com/?ref=designxstream.com",
+            "type": " PAID, WEB",
+            "Description": "A great resource of amazing and trending typefaces with real-world design and artwork examples."
+        },
+        {
+            "catogry": "Fonts",
+            "name": "What Font Is",
+            "img": "./images/fonts/what-font-is.jpg",
+            "link": "https://www.whatfontis.com/?ref=designxstream.com",
+            "type": " FREE, WEB",
+            "Description": "An amazing tool to help you find any font from any image within their collection of 700K+ fonts."
+        },
+        {
+            "catogry": "Fonts",
+            "name": "Wordmark It",
+            "img": "./images/fonts/wordmark-it.jpg",
+            "link": "https://wordmark.it/?ref=designxstream.com",
+            "type": "FREEMIUM, WEB",
+            "Description": "A very helpful tool to helps you choose fonts by quickly displaying your text with your fonts."
         }
     ]
 }

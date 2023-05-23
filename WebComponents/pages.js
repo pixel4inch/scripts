@@ -37,8 +37,14 @@ $(document).ready(function () {
                 <div class="col-lg-3 col-md-2 col-sm-12 mb-3 ">
                 <div class="col-11 mx-auto shadow-sm bs-card">
                     <div class="w-100 bs-card-header text-center">
-                    <h6 class="mb-0">  `+ value.name + ` <h6/>
+                         <img src="`+ value.img + `" class="bs-card-img"/> 
                     </div>
+                    <div class="w-100 bs-card-body my-3">
+                         <h6 class="mb-3"> <i class="fa-solid fa-tag mr-3"></i>` + value.type + `</h6>
+                         <h5>`+ value.name + ` <a href=" ` + value.link + `" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square ml-2">  </i></a> <h5/>
+                         <p class="mt-3">`+ value.Description + `</p>
+                    </div>
+
                 </div>
            </div>
           `;
