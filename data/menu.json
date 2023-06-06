@@ -21,8 +21,8 @@
             "Tab": "AI TOOLS",
             "IMP": "IMPORTANT",
             "ICONLINK": "fa fa-braille",
-            "DISPLAY": "DISPLAY-NONE",
-            "COMPONENT": ""
+            "DISPLAY": "DISPLAY-BLOCK",
+            "COMPONENT": "ai-component"
         },
         {
             "id": "ACCESSIBILITY",
