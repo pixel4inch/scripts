@@ -155,146 +155,146 @@
         {
             "catogry": "ai",
             "name": "ChatGPT",
-            "img": "./images/fonts/wordmark-it.jpg",
+            "img": "./images/ai/chatgpt.jpg",
             "link": "https://openai.com/blog/chatgpt",
             "type": "FREEMIUM, WEB",
-            "Description": "A very helpful tool to helps you choose fonts by quickly displaying your text with your fonts."
+            "Description": "(Writing) ChartGPT is the World's most advanced AI text generation Tool"
         },
         {
             "catogry": "ai",
             "name": "Jasper",
-            "img": "./images/fonts/wordmark-it.jpg",
+            "img": "./images/ai/jasper.jpg",
             "link": "https://www.jasper.ai/free-trial?_from=ads&fp_sid=1-g-Cj0KCQjwj_ajBhCqARIsAA37s0y0DfLTLKdQ0fyuHx1ddKVZlTztW0GaFsBwU5bDQAKQE4C_4mo5n9EaAmLvEALw_wcB",
             "type": "FREEMIUM, WEB",
-            "Description": "A very helpful tool to helps you choose fonts by quickly displaying your text with your fonts."
+            "Description": "(Writing) Instantly create content for your blog, social media, website, and more"
         },
         {
             "catogry": "ai",
             "name": "CopyAI",
-            "img": "./images/fonts/wordmark-it.jpg",
-            "link": "https://wordmark.it/?ref=designxstream.com",
+            "img": "./images/ai/copyai.jpg",
+            "link": "https://www.copy.ai/?via=start",
             "type": "FREEMIUM, WEB",
-            "Description": "A very helpful tool to helps you choose fonts by quickly displaying your text with your fonts."
+            "Description": "(Writing) An AI-powered content generator for all our marketing needs."
         },
         {
             "catogry": "ai",
             "name": "Fliki",
-            "img": "./images/fonts/wordmark-it.jpg",
-            "link": "https://wordmark.it/?ref=designxstream.com",
+            "img": "./images/ai/flikiai.jpg",
+            "link": "https://fliki.ai/",
             "type": "FREEMIUM, WEB",
-            "Description": "A very helpful tool to helps you choose fonts by quickly displaying your text with your fonts."
+            "Description": "(Video) Turn text into videos with AI Voices."
         },
         {
             "catogry": "ai",
             "name": "Super Creator",
-            "img": "./images/fonts/wordmark-it.jpg",
-            "link": "https://wordmark.it/?ref=designxstream.com",
+            "img": "./images/ai/supercreatorai.jpg",
+            "link": "https://www.supercreator.ai/",
             "type": "FREEMIUM, WEB",
-            "Description": "A very helpful tool to helps you choose fonts by quickly displaying your text with your fonts."
+            "Description": "(Video) Create short form videos 10x faster using AI."
         },
         {
             "catogry": "ai",
             "name": "Runway",
-            "img": "./images/fonts/wordmark-it.jpg",
-            "link": "https://wordmark.it/?ref=designxstream.com",
+            "img": "./images/ai/runway.jpg",
+            "link": "https://runwayml.com/",
             "type": "FREEMIUM, WEB",
-            "Description": "A very helpful tool to helps you choose fonts by quickly displaying your text with your fonts."
+            "Description": "(Video) Turn any image, video clip to text prompt into a compelling piece of video."
         },
         {
             "catogry": "ai",
             "name": "Krisp",
-            "img": "./images/fonts/wordmark-it.jpg",
-            "link": "https://wordmark.it/?ref=designxstream.com",
+            "img": "./images/ai/krisp.jpg",
+            "link": "https://krisp.ai/",
             "type": "FREEMIUM, WEB",
-            "Description": "A very helpful tool to helps you choose fonts by quickly displaying your text with your fonts."
+            "Description": "(Audio) The best AI tool to eliminate Background noise during calls"
         },
         {
             "catogry": "ai",
             "name": " Altered",
-            "img": "./images/fonts/wordmark-it.jpg",
-            "link": "https://wordmark.it/?ref=designxstream.com",
+            "img": "./images/ai/altered.jpg",
+            "link": "https://www.altered.ai/",
             "type": "FREEMIUM, WEB",
-            "Description": "A very helpful tool to helps you choose fonts by quickly displaying your text with your fonts."
+            "Description": "(Audio) An AI tool to record and edit your voice recordings everywhere."
         },
         {
             "catogry": "ai",
             "name": "Voicemod",
-            "img": "./images/fonts/wordmark-it.jpg",
-            "link": "https://wordmark.it/?ref=designxstream.com",
+            "img": "./images/ai/voicemode.jpg",
+            "link": "https://www.voicemod.net/",
             "type": "FREEMIUM, WEB",
-            "Description": "A very helpful tool to helps you choose fonts by quickly displaying your text with your fonts."
+            "Description": "(Audio) Real-time voice changing and custom sound effects for every game and app."
         },
         {
             "catogry": "ai",
             "name": "GitHub Copoilot",
-            "img": "./images/fonts/wordmark-it.jpg",
-            "link": "https://wordmark.it/?ref=designxstream.com",
+            "img": "./images/ai/gitHubcopilet.jpg",
+            "link": "https://github.com/features/copilot",
             "type": "FREEMIUM, WEB",
-            "Description": "A very helpful tool to helps you choose fonts by quickly displaying your text with your fonts."
+            "Description": " (Code) Sugests code and entire functins in real time right from your editor"
         },
         {
             "catogry": "ai",
             "name": " AutoRegex",
-            "img": "./images/fonts/wordmark-it.jpg",
-            "link": "https://wordmark.it/?ref=designxstream.com",
+            "img": "./images/ai/autoregex.jpg",
+            "link": "https://www.autoregex.xyz/",
             "type": "FREEMIUM, WEB",
-            "Description": "A very helpful tool to helps you choose fonts by quickly displaying your text with your fonts."
+            "Description": " (Code) Converting plain English to Regex with natural Language Procecssing."
         },
         {
             "catogry": "ai",
             "name": "Lightning Ai",
-            "img": "./images/fonts/wordmark-it.jpg",
-            "link": "https://wordmark.it/?ref=designxstream.com",
+            "img": "./images/ai/Lightningai.jpg",
+            "link": "https://lightning.ai/",
             "type": "FREEMIUM, WEB",
-            "Description": "A very helpful tool to helps you choose fonts by quickly displaying your text with your fonts."
+            "Description": " (Code) Fast and minimal Libraries to train and deploy AI Models."
         },
         {
             "catogry": "ai",
             "name": "Albus",
-            "img": "./images/fonts/wordmark-it.jpg",
-            "link": "https://wordmark.it/?ref=designxstream.com",
+            "img": "./images/ai/Alubs.jpg",
+            "link": "https://www.springworks.in/albus/",
             "type": "FREEMIUM, WEB",
-            "Description": "A very helpful tool to helps you choose fonts by quickly displaying your text with your fonts."
+            "Description": " (Productivity) An AI assistant to get answers quickly and easily"
         },
         {
             "catogry": "ai",
             "name": "SlidesAI",
-            "img": "./images/fonts/wordmark-it.jpg",
-            "link": "https://wordmark.it/?ref=designxstream.com",
+            "img": "./images/ai/slidesAI.jpg",
+            "link": "https://www.slidesai.io/",
             "type": "FREEMIUM, WEB",
-            "Description": "A very helpful tool to helps you choose fonts by quickly displaying your text with your fonts."
+            "Description": " (Productivity)  Create compelling presentatins with AI in Seconds."
         },
         {
             "catogry": "ai",
             "name": "Notion AI",
-            "img": "./images/fonts/wordmark-it.jpg",
-            "link": "https://wordmark.it/?ref=designxstream.com",
+            "img": "./images/ai/Notion.jpg",
+            "link": "https://www.notion.so/help/guides/using-notion-ai",
             "type": "FREEMIUM, WEB",
-            "Description": "A very helpful tool to helps you choose fonts by quickly displaying your text with your fonts."
+            "Description": " (Productivity) Write better i Notion with the help of AI. Create better content 10x faster"
         },
         {
             "catogry": "ai",
             "name": "Midjourney",
-            "img": "./images/fonts/wordmark-it.jpg",
-            "link": "https://wordmark.it/?ref=designxstream.com",
+            "img": "./images/ai/Midjourney.jpg",
+            "link": "https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F",
             "type": "FREEMIUM, WEB",
-            "Description": "A very helpful tool to helps you choose fonts by quickly displaying your text with your fonts."
+            "Description": "(images) Midjourney Uses AI to Crete Images from text descriptions"
         },
         {
             "catogry": "ai",
             "name": "RocketAI",
-            "img": "./images/fonts/wordmark-it.jpg",
-            "link": "https://wordmark.it/?ref=designxstream.com",
+            "img": "./images/ai/RocketAi.jpg",
+            "link": "https://www.rocketai.net/",
             "type": "FREEMIUM, WEB",
-            "Description": "A very helpful tool to helps you choose fonts by quickly displaying your text with your fonts."
+            "Description": "(images) Generate Creative Images that Perfectly captre our unique brand Style. "
         },
         {
             "catogry": "ai",
             "name": "BRIA",
-            "img": "./images/fonts/wordmark-it.jpg",
-            "link": "https://wordmark.it/?ref=designxstream.com",
+            "img": "./images/ai/BRIA.jpg",
+            "link": "https://bria.ai/",
             "type": "FREEMIUM, WEB",
-            "Description": "A very helpful tool to helps you choose fonts by quickly displaying your text with your fonts."
+            "Description": "(images) Bria allows ou to generate high-quality images with one click."
         }
     ]
 }
